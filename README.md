@@ -26,4 +26,10 @@ Get the clean data in right format
 
 run the command python .\manage.py import_csv movies_app/movies.csv
  for which the date data type will clean in right format of 'YYYY-MM-DD' and data will import in models
+
+
  
+## Check the Api on Postman or other Tools
+
+
+Check the api on Postman
